@@ -1,0 +1,9 @@
+C:\code Repos\git\Library2017\Library2017Api\Library2017Api\bin\Debug\netcoreapp1.1\Library2017Api.deps.json
+C:\code Repos\git\Library2017\Library2017Api\Library2017Api\bin\Debug\netcoreapp1.1\Library2017Api.runtimeconfig.json
+C:\code Repos\git\Library2017\Library2017Api\Library2017Api\bin\Debug\netcoreapp1.1\Library2017Api.runtimeconfig.dev.json
+C:\code Repos\git\Library2017\Library2017Api\Library2017Api\obj\Debug\netcoreapp1.1\Library2017Api.csprojResolveAssemblyReference.cache
+C:\code Repos\git\Library2017\Library2017Api\Library2017Api\obj\Debug\netcoreapp1.1\Library2017Api.AssemblyInfo.cs
+C:\code Repos\git\Library2017\Library2017Api\Library2017Api\bin\Debug\netcoreapp1.1\Library2017Api.dll
+C:\code Repos\git\Library2017\Library2017Api\Library2017Api\bin\Debug\netcoreapp1.1\Library2017Api.pdb
+C:\code Repos\git\Library2017\Library2017Api\Library2017Api\obj\Debug\netcoreapp1.1\Library2017Api.dll
+C:\code Repos\git\Library2017\Library2017Api\Library2017Api\obj\Debug\netcoreapp1.1\Library2017Api.pdb
